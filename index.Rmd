@@ -1,7 +1,13 @@
 ---
-title: "Holy cow!"
+title: "Erin McDonnell"
 ---
 
-### I have a webpage!
+Hello! I'm Erin. I am a second-year PhD student in biostatistics at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics). I obtained my BS in mathematics from [Christopher Newport University](http://cnu.edu/) in 2011 and my MS in biostatistics from [Harvard University](https://www.hsph.harvard.edu/biostatistics/) in 2014. 
 
-And I can put all kinds of stuff on it!
+Before starting my PhD, I spent several years as a biostatistician at [Massachusetts General Hospital](http://hedwig.mgh.harvard.edu/biostatistics/) and an analyst in [Analysis Group](http://www.analysisgroup.com/practices/health-care/health-economics-outcomes-research-heor/)'s Health Economics and Outcomes Research practice. I am skilled in both SAS and R, and have experience analyzing data from clinical trials, longitudinal observational studies, electronic health records, and insurance claims databases. 
+
+My current research interests include functional data analysis, causal inference, and statistical learning. I also enjoy teaching, and have served as a teaching assistant for two graduate-level courses: Data Science I (instructed by Dr. Jeff Goldsmith) and Pharmaceutical Statistics (instructed by Dr. Naitee Ting).
+
+
+<img src="images/DSC_2584.jpg" style="width:75%">
+
