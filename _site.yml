@@ -14,6 +14,6 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/eimcdonnell/
     - icon: fa-envelope fa-lg
-      href: mailto:<eimcdonnell@gmail.com>
+      href: mailto:<eim2117@cumc.columbia.edu>
 output:
   html_document
