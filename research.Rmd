@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My background has allowed me to explore a broad range of research areas. Clinical topics range from neurodegenerative diseases to oncology to autism and beyond. In terms of statistical methodology, my current interests include functional data analysis (FDA), causal inference, and statistical learning.
+My background has allowed me to explore a broad range of research areas. Clinical topics range from neurodegenerative diseases and oncology to autism and beyond. Regarding statistical methodology, my current interests include functional data analysis (FDA), causal inference, and statistical learning.
 
 ### Functional data analysis (FDA)
 
@@ -14,7 +14,7 @@ FDA is a type of data analysis where the unit of observation is a curve rather t
 
 ### Causal inference
 
-Causal inference is the study of how a particular variable *causes* the outcome to change, rather than the study of how that variable is simply *associated* with the outcome. It is a heavily epidemiology-based methodology. 
+Causal inference is the study of how an exposure of interest *causes* the outcome of interest, rather than a mere *association*. It is an epidemiological methodology that takes into account pathways of relationships between all variables, independent and dependent, measured and unmeasured. 
 
 As a masters student, my thesis project involved fitting a structural nested model to estimate the effect of feeding tube placement on survival in patients with amyotrophic lateral sclerosis in the presence of time-varying confounding (under the guidance of Dr. David Schoenfeld). 
 

@@ -6,7 +6,7 @@ Hello! I'm Erin. I am a second-year PhD student in biostatistics at [Columbia Un
 
 Before starting my PhD, I spent several years as a biostatistician at [Massachusetts General Hospital](http://hedwig.mgh.harvard.edu/biostatistics/) and an analyst in [Analysis Group](http://www.analysisgroup.com/practices/health-care/health-economics-outcomes-research-heor/)'s Health Economics and Outcomes Research practice. I am skilled in both SAS and R, and have experience in the design and analysis of clinical trials, longitudinal observational studies, electronic health records, and insurance claims databases. 
 
-My current research interests include functional data analysis, causal inference, and statistical learning. I also enjoy teaching, and have served as a teaching assistant for two graduate-level courses: Data Science I and Pharmaceutical Statistics.
+My current research interests include functional data analysis, causal inference, and statistical learning. I also enjoy teaching, and have served as lead teaching assistant for two graduate-level courses: Data Science I and Pharmaceutical Statistics.
 
 <img src="images/DSC_2584.jpg" style="width:75%">
 
@@ -20,7 +20,7 @@ Columbia Mailman School of Public Health
 
 722 West 168th Street, Room 657
 
-New York, New York 10032
+New York, NY 10032
 
 Email: eim2117@cumc.columbia.edu
 
