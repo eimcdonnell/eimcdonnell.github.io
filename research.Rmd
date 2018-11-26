@@ -27,4 +27,4 @@ Here at Columbia, I continue to study causal methods with peers and faculty as a
 
 ### Statistical learning
 
-Statistical learning is a branch of methodology encompassing tools used in data mining and machine learning. This is an area I have only recently begun to explore through my coursework. I am currently embarking on a new project involving Gaussian graphical modeling with a psychiatry application (under the guidance of Dr. Yuanjia Wang).
+Statistical learning is a branch of methodology encompassing tools used in data mining and machine learning. This is an area I have only recently begun to explore in-depth through my coursework. I am currently embarking on a new project involving Gaussian graphical modeling with a psychiatry application (under the guidance of Dr. Yuanjia Wang).
