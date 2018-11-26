@@ -8,9 +8,11 @@ My background has allowed me to explore a broad range of research areas. Clinica
 
 FDA is a type of data analysis where the unit of observation is a curve rather than a single data point from a subject. I am currently working on two projects in this area: 
 
+1. I am conducting a simulation study to compare several FDA-specific approaches for principal components analysis (under the guidance of Dr. Todd Ogden).
+
 1. Motivated by accelerometer data, which can be visualized as a curve of physical activity intensity over the course of a day for each subject, my project involves exploring new parametric methods of "registering" or aligning these subject-specific curves in order to make inferences about the patterns of peaks and valleys (under the guidance of Dr. Jeff Goldsmith).
 
-1. I am conducting a simulation study to compare several FDA-specific approaches for principal components analysis (under the guidance of Dr. Todd Ogden).
+<img src="images/registration.png" style="width:60%">
 
 ### Causal inference
 
@@ -20,6 +22,9 @@ As a masters student, my thesis project involved fitting a structural nested mod
 
 Here at Columbia, I continue to study causal methods with peers and faculty as an active member of the Causal Inference Working Group.
 
+<img src="images/DAG.png" style="width:60%">
+
+
 ### Statistical learning
 
-This is an area I have only recently begun to explore through my coursework. I am currently embarking on a new project involving Gaussian graphical modeling to build a symptom network in a psychiatry context (under the guidance of Dr. Yuanjia Wang).
+Statistical learning is a branch of methodology encompassing tools used in data mining and machine learning. This is an area I have only recently begun to explore through my coursework. I am currently embarking on a new project involving Gaussian graphical modeling with a psychiatry application (under the guidance of Dr. Yuanjia Wang).
