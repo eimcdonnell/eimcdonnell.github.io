@@ -12,7 +12,7 @@ FDA is a type of data analysis where the unit of observation is a curve rather t
 
 1. Motivated by accelerometer data, which can be visualized as a curve of physical activity intensity over the course of a day for each subject, I am exploring new parametric methods of "registering" or aligning these subject-specific curves (under the guidance of Dr. Jeff Goldsmith).
 
-<img src="images/DAG.png" style="width:60%">
+<img src="images/FDA_registration.png" style="width:60%">
 
 
 ### Causal inference
