@@ -14,6 +14,7 @@ FDA is a type of data analysis where the unit of observation is a curve rather t
 
 <img src="images/registration.png" style="width:60%">
 
+
 ### Causal inference
 
 Causal inference is the study of how an exposure of interest *causes* the outcome of interest, rather than a mere *association*. It is an epidemiological methodology that takes into account pathways of relationships between all variables, independent and dependent, measured and unmeasured. 
