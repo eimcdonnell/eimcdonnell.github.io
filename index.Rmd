@@ -12,14 +12,10 @@ My current research interests include functional data analysis, causal inference
 
 ### Contact Information:
 
-Erin McDonnell
-
-Department of Biostatistics
-
-Columbia Mailman School of Public Health
-
-722 West 168th Street, Room 657
-
+Erin McDonnell  
+Department of Biostatistics  
+Columbia Mailman School of Public Health  
+722 West 168th Street, Room 657  
 New York, NY 10032
 
 Email: eim2117@cumc.columbia.edu
