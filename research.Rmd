@@ -21,7 +21,7 @@ Causal inference is the study of how an exposure of interest *causes* the outcom
 
 As a masters student, my thesis project involved fitting a structural nested model to estimate the effect of feeding tube placement on survival in patients with amyotrophic lateral sclerosis in the presence of time-varying confounding (under the guidance of Dr. David Schoenfeld). 
 
-Here at Columbia, I continue to study causal methods with peers and faculty as an active member of the Causal Inference Working Group.
+Here at Columbia, I continue to study causal methods with peers and faculty as an active member of the Causal Inference Learning Group.
 
 <img src="images/DAG.png" style="width:60%">
 
