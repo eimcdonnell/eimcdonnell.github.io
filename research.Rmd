@@ -2,30 +2,44 @@
 title: "Research"
 ---
 
-My background has allowed me to explore a broad range of research areas. Clinical topics range from neurodegenerative diseases and oncology to autism and beyond. Regarding statistical methodology, my current interests include functional data analysis (FDA), causal inference, and statistical learning.
+### R Packages
 
-### Functional data analysis (FDA)
+* Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
 
-FDA is a type of data analysis where the unit of observation is a curve rather than a single data point from a subject. I am currently working on two projects in this area: 
+### Publications
 
-1. I am conducting a simulation study to compare several FDA-specific approaches for principal components analysis (under the guidance of Dr. Todd Ogden).
+* Sanders K, Staubitz J, Juárez AP, Marler S, Browning W, **McDonnell E**, et al. Addressing challenging behavior during hospitalizations for children with autism: A pilot applied behavior analysis RCT. Autism Research. (Accepted April 2020).  
+* McDonald CM, Sajeev G, Yao Z, **McDonnell E**, Elfring G, Souza M, et al. Deflazacort versus prednisone treatment for Duchenne muscular dystrophy: a meta‐analysis of disease progression rates in recent multicenter clinical trials. Muscle & Nerve. 2020; 61(1):26-35.
+* Neumeyer AM, Cano Sokoloff N, **McDonnell EI**, Macklin, EA, McDougle CJ, Holmes TM, et al. Nutrition and Bone Density in Boys with Autism Spectrum Disorder. Journal of the Academy of Nutrition and Dietetics. 2018; 118(5):865-877.
+* Nicholson K, Murphy A, **McDonnell E**, Shapiro J, Simpson E, Glass J, et al. Improving symptom management for people with amyotrophic lateral sclerosis. Muscle & Nerve. 2018; 57(1):20-24.
+* Kuhlthau, KA, **McDonnell E**, Coury DL, Payakachat N, Macklin E. Associations of quality of life with health-related characteristics among children with autism. Autism. 2018; 22(7):804-813.
+* Paganoni S, **McDonnell E**, Schoenfeld D, Yu H, Deng J, Atassi H, et al. Functional Decline is Associated with Hopelessness in Amyotrophic Lateral Sclerosis (ALS). Journal of Neurology and Neurophysiology. 2017; 8(2).
+* Mruzek DW, McAleavey S, Loring WA, Butter E, Smith T, **McDonnell E**, et al. A pilot investigation of an iOS-based app for toilet training children with autism spectrum disorder. Autism. 2017. [Epub ahead of print].
+* **McDonnell E**, Schoenfeld D, Paganoni S, Atassi N. Causal inference methods to study gastric tube use in amyotrophic lateral sclerosis. Neurology. 2017; 89(14), 1483-1489.
+* Hong TS, Wo JY, Borger DR, Yeap BY, **McDonnell EI**, Willers H, et al. Phase II Study of Proton-Based Stereotactic Body Radiation Therapy for Liver Metastases: Importance of Tumor Genotype. Journal of the National Cancer Institute. 2017; 109(9).
+* Marler S, Ferguson, BJ, Lee EB, Peters B, Williams KC, **McDonnell E**, et al. Association of Rigid-Compulsive Behavior with Functional Constipation in Autism Spectrum Disorder. Journal of Autism and Developmental Disorders. 2017; 47(6), 1673-1681.
+* Neumeyer AM, Cano Sokoloff N, **McDonnell E**, Macklin EA, McDougle CJ. Bone microarchitecture in adolescent boys with autism spectrum disorder. Bone. 2017; 97:139-146.
+* Neumeyer AM, Cano Sokoloff N, **McDonnell EI**, Macklin EA, McDougle CJ, Misra M. Bone accrual of males with autism spectrum disorder. Journal of Pediatrics. 2017; 181:195-201. 
+* Ferguson BJ, Marler S, Altstein LL, Lee EB, Akers J, Sohl K, McLaughlin A, Hartnett K, Kille B, Mazurek M, Macklin EA, **McDonnell E**, et al. Psychophysiological associations with gastrointestinal symptomatology in autism spectrum disorder. Autism Research. 2017; 10(2):276-288.
+* Ferguson BJ, Marler S, Altstein LL, Lee EB, Mazurek MO, McLaughlin A, Macklin EA, **McDonnell E**, et al. Associations between cytokines, endocrine stress response, and gastrointestinal symptoms in autism spectrum disorder. Brain, Behavior and Immunity. 2016; 58:57-62.
+* Redjal N, Reinshagen C, Le A, Walcott BP, **McDonnell E**, Dietrich J, et al. Valproic acid, compared to other antiepileptic drugs, is associated with improved overall and progression-free survival in glioblastoma but worse outcome in grade II/III gliomas treated with temozolomide. Journal of Neuro-Oncology. 2016; 127(3):505-14.
+* Hong TS, Wo JY, Yeap BY, Ben-Josef E, **McDonnell EI**, Blaszkowsky LS, et al. Multi-institutional phase II study of high-dose hypofractionated proton beam therapy in patients with localized, unresectable hepatocellular carcinoma and intrahepatic cholangiocarcinoma. Journal of Clinical Oncology. 2016; 34(5):460-8.
+* Marler S, Ferguson BJ, Lee EB, Peters B, Williams KC, **McDonnell E**, et al. Brief report: Whole blood serotonin levels and gastrointestinal symptoms in autism spectrum disorder. Journal of Autism and Developmental Disorders. 2016; 46(3):1124-30.
+* Fournier CN, Murphy A, Loci L, Mitsumoto H, Lomen-Hoerth C, Kisanuki Y, Simmons Z, Margakis NA, McVey AL, Al-Lahham T, Heiman-Patterson TD, Andrews J, **McDonnell E**, et al. Primary lateral sclerosis and
+early upper motor neuron disease: Characteristics of a cross-sectional population. Journal of Clinical Neuromuscular Disease. 2016; 17(3):99-105.
+* Ferrone CR, Marchegiani G, Hong TS, Ryan DP, Deshpande V, **McDonnell EI**, et al. Radiological and surgical implications of neoadjuvant treatment with FOLFIRINOX for locally advanced and borderline resectable pancreatic cancer. Annals of Surgery. 2015; 261(1):12-7.
 
-1. Motivated by accelerometer data, which can be visualized as a curve of physical activity intensity over the course of a day for each subject, I am exploring new parametric methods of "registering" or aligning these subject-specific curves (under the guidance of Dr. Jeff Goldsmith).
+### Conference Posters and Presentations
 
-<img src="images/FDA.png" style="width:60%">
-
-
-### Causal inference
-
-Causal inference is the study of how an exposure of interest *causes* the outcome of interest, rather than a mere *association*. It is an epidemiological methodology that takes into account pathways of relationships between all variables, independent and dependent, measured and unmeasured. 
-
-As a masters student, my thesis project involved fitting a structural nested model to estimate the effect of feeding tube placement on survival in patients with amyotrophic lateral sclerosis in the presence of time-varying confounding (under the guidance of Dr. David Schoenfeld). 
-
-Here at Columbia, I continue to study causal methods with peers and faculty as an active member of the Causal Inference Learning Group.
-
-<img src="images/DAG.png" style="width:60%">
-
-
-### Statistical learning
-
-Statistical learning is a branch of methodology encompassing tools used in data mining and machine learning. This is an area I have only recently begun to explore in-depth through my coursework. I am currently embarking on a new project involving Gaussian graphical modeling with a psychiatry application (under the guidance of Dr. Yuanjia Wang).
+* **McDonnell E**, Wrobel J, Goldsmith J, Zipunnikov V. Curve registration to identify circadian rhythm chronotypes in accelerometer data [Abstract]. Presented at the Joint Statistical Meetings, Denver, CO, 2019.
+* Signorovitch J, Schilling T, Sajeev G, Yao Z, **McDonnell E**, Elfring G, et al. Deflazacort or Prednisone treatment for Duchenne muscular dystrophy: A meta-analysis of disease progression rates in recent multicenter clinical trials [Abstract]. Presented at the American Academy of Neurology 71st Annual Meeting, Philadelphia, PA 2019.
+* Dyer MA, **McDonnell EI**, Yeap BY, Depauw N, Wolfgang JA, Wo JY, et al. Change in platelet count and normal liver dosimetry in patients receiving proton radiation therapy for unresectable hepatocellular carcinoma or intrahepatic cholangiocarcinoma [Abstract]. Presented at the American Society for Radiation Oncology (ASTRO) Annual Meeting, Boston, MA, 2016.
+* Hong T, Wo J, **McDonnell E**, Yeap B, Drapek L, Wolfgang J, et al. A single arm phase 2 study of individualized proton-based stereotactic body radiation therapy (P-SBRT) of liver metastases [Abstract]. Presented at the American Society for Radiation Oncology (ASTRO) Annual Meeting; San Antonio, TX 2015.
+* Wo J, Zhu A, **McDonnell E**, Yeap B, Borger D, Iafrate A, et al. Clinical and molecular predictors of local failure after SBRT for liver metastases: A secondary analysis of a prospective phase II trial [Abstract]. Presented at the American Society for Radiation Oncology (ASTRO) Annual Meeting; San Antonio, TX 2015.
+* Hong T, Wo J, Yeap B, Ben-Josef E, **McDonnell E**, Drapek L, et al. Multi-institutional phase II study of high dose, hypofractionated proton beam therapy (HF-PBT) for unresectable primary liver cancers: Long term outcomes in patients (pts) with intrahepatic cholangiocarcinoma (ICC) [Abstract]. Presented at the American Society of Clinical Oncology (ASCO) Annual Meeting; Chicago, IL 2015.
+* Kuhlthau K, **McDonnell E**, Payakachat N, Coury D, Delahaye J, Macklin E, editors. Correlates of cross-sectional and longitudinal health-related quality of life among children with autism spectrum disorders [Abstract]. Presented at the International Meeting for Autism Research (IMFAR); 2015; Salt Lake City, UT.
+* Marler S, Lee E, Anderson G, Ferguson B, **McDonnell E**, Beversdorf D, et al. Gastrointestinal symptoms, whole blood serotonin levels, and behavioral symptoms in children and adolescents with autism spectrum disorder [Abstract]. Presented at the International Meeting for Autism Research (IMFAR); Salt Lake City, UT 2015.
+* Ferguson B, Marler S, Lee E, Akers J, Mazurek M, Sohl K, Hartnett K, Macklin EA, **McDonnell E**, et al. Psychophysiological predictors of gastrointestinal symptomatology in autism spectrum disorder [Abstract]. Presented at the International Meeting for Autism Research (IMFAR); Salt Lake City, UT 2015.
+* **McDonnell E**. Analyzing supportive care in ALS [Oral presentation]. Presented at Statistical Issues in the Analysis of Neurological Studies: A Harvard Catalyst Biostatistics Symposium; Boston, MA 2014.
+* Murphy A, **McDonnell E**, Wolff J, Shapiro J, Simpson E, Glass J, et al. Improving symptom management for people with amyotrophic lateral sclerosis (ALS) [Abstract]. Presented at the Northeast Amyotrophic Lateral Sclerosis Consortium (NEALS) Annual Meeting; Clearwater Beach, FL 2013.
+* Paganoni S, **McDonnell E**, Schoenfeld D, Yu H, Deng J, Atassi H, et al. Longitudinal study of mood in ALS [Abstract]. Presented at the Northeast Amyotrophic Lateral Sclerosis Consortium Annual Meeting; Clearwater Beach, FL 2013.
