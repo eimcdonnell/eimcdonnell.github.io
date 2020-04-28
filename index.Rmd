@@ -1,5 +1,5 @@
 ---
-title: "Erin Irene McDonnell"
+title: "Erin I. McDonnell"
 ---
 
 I am a PhD candidate in biostatistics at [Columbia University](https://www.mailman.columbia.edu/academics/departments/biostatistics). My research focuses on methods for high-dimensional correlated data (graphical models and functional data analysis), with applications in neurology and neurobiology. I am co-advised by [Dr. Yuanjia Wang](https://www.mailman.columbia.edu/people/our-faculty/yw2016) and [Dr. Jeff Goldsmith](http://jeffgoldsmith.com/).
