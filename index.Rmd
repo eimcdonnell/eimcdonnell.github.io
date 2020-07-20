@@ -6,7 +6,7 @@ I am a PhD candidate in biostatistics at [Columbia University](https://www.mailm
 
 I obtained a BS in mathematics from [Christopher Newport University](http://cnu.edu/) in 2011 and a MS in biostatistics from [Harvard University](https://www.hsph.harvard.edu/biostatistics/) in 2014, where my thesis work focused on causal inference. I also spent several years as a biostatistician at [Massachusetts General Hospital](http://hedwig.mgh.harvard.edu/biostatistics/) and an analyst in [Analysis Group](http://www.analysisgroup.com/practices/health-care/health-economics-outcomes-research-heor/)'s Health Economics and Outcomes Research practice. I am skilled in both SAS and R, and have experience in the design and analysis of clinical trials, longitudinal observational studies, electronic health records, insurance claims databases, structural MRI data, and wearable device data. 
 
-<img src="images/DSC_2584.jpg" style="width:75%">
+<img src="images/DSC_2672_2.jpg" style="width:75%">
 
 ### Contact Information:
 
