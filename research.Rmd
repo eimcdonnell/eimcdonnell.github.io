@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-### R Packages
+### Software Development
 
 * Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
 
