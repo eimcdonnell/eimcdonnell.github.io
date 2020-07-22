@@ -6,10 +6,6 @@ title: "Research"
 
 * Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
 
-### R Packages
-
-* Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
-
 ### Publications
 
 * **McDonnell EI**, Zipunnikov V, Schrack JA, Goldsmith J, Wrobel J. Scale-invariant time registration of 24-hour accelerometric rest-activity profiles and its application to human chronotypes. Manuscript in preparation.
