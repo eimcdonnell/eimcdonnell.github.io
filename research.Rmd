@@ -15,7 +15,7 @@ title: "Research"
 * Nicholson K, Murphy A, **McDonnell E**, Shapiro J, Simpson E, Glass J, et al. Improving symptom management for people with amyotrophic lateral sclerosis. Muscle & Nerve. 2018; 57(1):20-24.
 * Kuhlthau, KA, **McDonnell E**, Coury DL, Payakachat N, Macklin E. Associations of quality of life with health-related characteristics among children with autism. Autism. 2018; 22(7):804-813.
 * Paganoni S, **McDonnell E**, Schoenfeld D, Yu H, Deng J, Atassi H, et al. Functional Decline is Associated with Hopelessness in Amyotrophic Lateral Sclerosis (ALS). Journal of Neurology and Neurophysiology. 2017; 8(2).
-* Mruzek DW, McAleavey S, Loring WA, Butter E, Smith T, **McDonnell E**, et al. A pilot investigation of an iOS-based app for toilet training children with autism spectrum disorder. Autism. 2017. [Epub ahead of print].
+* Mruzek DW, McAleavey S, Loring WA, Butter E, Smith T, **McDonnell E**, et al. A pilot investigation of an iOS-based app for toilet training children with autism spectrum disorder. Autism. 2019; 23(2):359–370.
 * **McDonnell E**, Schoenfeld D, Paganoni S, Atassi N. Causal inference methods to study gastric tube use in amyotrophic lateral sclerosis. Neurology. 2017; 89(14), 1483-1489.
 * Hong TS, Wo JY, Borger DR, Yeap BY, **McDonnell EI**, Willers H, et al. Phase II Study of Proton-Based Stereotactic Body Radiation Therapy for Liver Metastases: Importance of Tumor Genotype. Journal of the National Cancer Institute. 2017; 109(9).
 * Marler S, Ferguson, BJ, Lee EB, Peters B, Williams KC, **McDonnell E**, et al. Association of Rigid-Compulsive Behavior with Functional Constipation in Autism Spectrum Disorder. Journal of Autism and Developmental Disorders. 2017; 47(6), 1673-1681.
@@ -32,6 +32,7 @@ early upper motor neuron disease: Characteristics of a cross-sectional populatio
 
 ### Conference Posters and Presentations
 
+* **McDonnell E**, Xie S, Marder K, Wang Y. Smooth time-varying Gaussian graphical models to study disease progression [Abstract]. To be presented at the Joint Statistical Meetings, Virtual, 2020.
 * **McDonnell E**, Wrobel J, Goldsmith J, Zipunnikov V. Curve registration to identify circadian rhythm chronotypes in accelerometer data [Abstract]. Presented at the Joint Statistical Meetings, Denver, CO, 2019.
 * Signorovitch J, Schilling T, Sajeev G, Yao Z, **McDonnell E**, Elfring G, et al. Deflazacort or Prednisone treatment for Duchenne muscular dystrophy: A meta-analysis of disease progression rates in recent multicenter clinical trials [Abstract]. Presented at the American Academy of Neurology 71st Annual Meeting, Philadelphia, PA 2019.
 * Dyer MA, **McDonnell EI**, Yeap BY, Depauw N, Wolfgang JA, Wo JY, et al. Change in platelet count and normal liver dosimetry in patients receiving proton radiation therapy for unresectable hepatocellular carcinoma or intrahepatic cholangiocarcinoma [Abstract]. Presented at the American Society for Radiation Oncology (ASTRO) Annual Meeting, Boston, MA, 2016.
