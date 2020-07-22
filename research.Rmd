@@ -6,8 +6,13 @@ title: "Research"
 
 * Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
 
+### R Packages
+
+* Wrobel, J., Goldsmith, J., **McDonnell, E**. (2020). `registr`: Curve registration for exponential family functional data. R package version 1.0.0. https://cran.r-project.org/web/packages/registr/index.html.
+
 ### Publications
 
+* **McDonnell EI**, Zipunnikov V, Schrack JA, Goldsmith J, Wrobel J. Scale-invariant time registration of 24-hour accelerometric rest-activity profiles and its application to human chronotypes. Manuscript in preparation.
 * Sanders K, Staubitz J, Juárez AP, Marler S, Browning W, **McDonnell E**, et al. Addressing challenging behavior during hospitalizations for children with autism: A pilot applied behavior analysis RCT. Autism Research. (Accepted April 2020).  
 * McDonald CM, Sajeev G, Yao Z, **McDonnell E**, Elfring G, Souza M, et al. Deflazacort versus prednisone treatment for Duchenne muscular dystrophy: a meta‐analysis of disease progression rates in recent multicenter clinical trials. Muscle & Nerve. 2020; 61(1):26-35.
 * Neumeyer AM, Cano Sokoloff N, **McDonnell EI**, Macklin, EA, McDougle CJ, Holmes TM, et al. Nutrition and Bone Density in Boys with Autism Spectrum Disorder. Journal of the Academy of Nutrition and Dietetics. 2018; 118(5):865-877.
