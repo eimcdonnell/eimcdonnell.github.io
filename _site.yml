@@ -6,7 +6,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Academic CV"
-      href: mcdonnell_cv_2020_07_21.pdf			
+      href: mcdonnell_cv_2020_07_27.pdf			
     - text: "Google\nScholar"
       href: https://scholar.google.com/citations?user=YUPPl1wAAAAJ&hl=en&oi=ao
     - icon: fa-github fa-lg
